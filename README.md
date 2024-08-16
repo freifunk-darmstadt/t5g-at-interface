@@ -4,7 +4,14 @@ Quick and dirty programm for interfacing with the Modem AT Command interface on 
 
 ## TL;DR
 
-ToDo
+```bash
+# Download from GitHub
+wget -O /data/t5g-at https://github.com/freifunk-darmstadt/t5g-at-interface/releases/download/v0.0.1/t5g-at
+# Make Executable
+chmod +x /data/t5g-at
+# Run
+/data/t5g-at
+```
 
 ## How to compile
 
